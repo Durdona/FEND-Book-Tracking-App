@@ -9,9 +9,6 @@ body, .app {
 }
 
 /* main page */
-.status option:first-child{
-  color: #ccc;
-}
 
 .list-books-title {
   padding: 10px 0;
